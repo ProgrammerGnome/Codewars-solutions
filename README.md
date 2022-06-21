@@ -12,3 +12,19 @@ Programming Language: Python
 Examples:
 accum("abcd") -> "A-Bb-Ccc-Dddd"; accum("RqaEzty") -> "R-Qq-Aaa-Eeee-Zzzzz-Tttttt-Yyyyyyy"; accum("cwAt") -> "C-Ww-Aaa-Tttt"
 The parameter of accum is a string which includes only letters from a..z and A..Z.
+
+### CW3.py
+Programming Language: Python
+
+Task: Given an array of numbers and an index, return either the index of the smallest number that is larger than the element at the given index, or -1 if there is no such index ( or, where applicable, Nothing or a similarly empty value ).
+
+Notes
+
+Multiple correct answers may be possible. In this case, return any one of them.
+The given index will be inside the given array.
+The given array will, therefore, never be empty.
+
+Example
+
+least_larger({4, 1, 3, 5, 6}, 5, 0) ==  3;
+least_larger({4, 1, 3, 5, 6}, 5, 4) == -1;
