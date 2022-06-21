@@ -6,7 +6,7 @@ Programming Language: C
 Welcome. In this kata you are required to, given a string, replace every letter with its position in the alphabet. If anything in the text isn't a letter, ignore it and don't return it. "a" = 1, "b" = 2, etc. Example: alphabet_position("The sunset sets at twelve o' clock.") Should return "20 8 5 19 21 14 19 5 20 19 5 20 19 1 20 20 23 5 12 22 5 15 3 12 15 3 11" ( as a string )
 
 ### CW2.py
-#### This time no story, no theory. The examples below show you how to write function accum:
+#### This time no story, no theory. The examples below show you how to write function accum: (7kyu)
 Programming Language: Python
 
 Examples:
@@ -16,7 +16,7 @@ The parameter of accum is a string which includes only letters from a..z and A..
 ### CW3.py
 Programming Language: Python
 
-Task: Given an array of numbers and an index, return either the index of the smallest number that is larger than the element at the given index, or -1 if there is no such index ( or, where applicable, Nothing or a similarly empty value ).
+#### Task: Given an array of numbers and an index, return either the index of the smallest number that is larger than the element at the given index, or -1 if there is no such index ( or, where applicable, Nothing or a similarly empty value ). (7 kyu)
 
 Notes
 
