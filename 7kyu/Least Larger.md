@@ -5,9 +5,10 @@ Notes
 Multiple correct answers may be possible. In this case, return any one of them. The given index will be inside the given array. The given array will, therefore, never be empty.
 
 Example
-
-least_larger({4, 1, 3, 5, 6}, 5, 0) == 3; least_larger({4, 1, 3, 5, 6}, 5, 4) == -1;
-
+```
+least_larger({4, 1, 3, 5, 6}, 5, 0) == 3
+least_larger({4, 1, 3, 5, 6}, 5, 4) == -1;
+```
 ```python
 element = 999
 myNumbers = []
