@@ -1,4 +1,4 @@
 # Codewars
 codewars.com Katas 
 
-I do not create functions for tasks.
+I don't create functions for tasks.
